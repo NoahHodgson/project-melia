@@ -1,1 +1,1 @@
-Wife of Pops and loyal cook of the Teknesi. From somewhere in Berringia
+Wife of Pops and loyal cook of the Teknesi. From somewhere in [[Melia-Mar-Biographics#Berringia|Berringia]] 

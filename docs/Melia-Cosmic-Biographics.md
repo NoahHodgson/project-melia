@@ -80,7 +80,7 @@ Cosmic space worms. They have a small base that latches on to a living host and 
 
 They do this to gain control of a planet's leader or something of that nature. Did this to the Agltthim.  
 
-# The Agltthim:
+# The Aglthiim:
 Angel people with wings. Society was unknowingly took over by the Verenfer. By the time they 
 	realized it, it was too late. They continue the cosmic journey aware of what happened to their
 	some of their most powerful leaders, but helpless to stop it.

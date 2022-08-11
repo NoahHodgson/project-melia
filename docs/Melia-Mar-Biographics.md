@@ -51,6 +51,7 @@ Varied people groups. Known by the sb's as
 	seen in the rest of the world. 
 
 # Berringia:
+
 ## Eskillia: 
 Pale to fair complextion, Built an entire
 	kingdom centered around using the Stone of Eskil
@@ -105,7 +106,7 @@ Grey to Warm Complextion, Ancestor Worshippers
 	Economy pretty diverse due to abundant national
 	resources.
 
-## Non-contintental:
+# Non-contintental:
 Mer-Tides: Fangs, fins, but otherwise very humanlike. The Mer
 	are an ancient race that precede the other Melians. They
 	live in the seas in the south betweeen the continent.
@@ -116,7 +117,7 @@ The Frozen North:
 	Frost giants roam the icey wastes.
 
 --------------------------------------------------------------
-## Religion: 
+# Religion: 
 
 Rocevelen religion primarily worship the Pantheon
 of the All-Father. Basically an Odin-type figure. Local
@@ -176,7 +177,7 @@ day the statues will hatch and the Yubians will be reborn.
 There recently also has been a contigent of Diacci believers.
 
 --------------------------------------------------------------
-## Fantasy Stuff:
+# Fantasy Stuff:
 
 Low Fantasy Level. Races are all functionally human. 
 	Fantastic creatures do exist (dragons, vamps, the 	
