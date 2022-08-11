@@ -1,1 +1,3 @@
 Welcome to my Repository on Melia Mar, the DnD game I have been running for the past two or so years. Hope you have fun exploring and learning about the crew of the famous trade ship: The Teknesi.
+
+![[TeknesiLogoWithText+Makko.png]]
