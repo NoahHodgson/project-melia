@@ -1,0 +1,1 @@
+Wife of Pops and loyal cook of the Teknesi. From somewhere in Berringia

@@ -1,0 +1,1 @@
+Half-Mer. Works for the Dalga family of Sidio Barca. Fearsome warrior nicknamed, Mondo Fishman.
