@@ -11,7 +11,7 @@ Example: Ryan->Ryakin, Mark->Markin, Sarah->Sarakin.
 COD's sign: Love Peace and Prosperity: hands together, hands folded
 over one way, and then the other.
 
-Diacci: the high council of the Agltthim, also the name of ther religion (Church of the Diacci)
+Diacci: the high council of the Agltthim, also the name of their religion (Church of the Diacci)
 	High Priest = Eliat Ealaa Ealia
 	Middle Priest = Thanilea
 	
@@ -61,7 +61,7 @@ Tabi: Slur for Tabradians
 
 ## Gambling: 
 In the West, card games with 40 cards deck. Including game resembling Black-Jack, called 20.
-	In the East, dice games more prevelant. Most popular being a 7-sided dice game with a 3 round roll-off. 
+	In the East, dice games more prevalent. Most popular being a 7-sided dice game with a 3 round roll-off. 
 
 ## Language Stuff:
 In BZ: a = you, ta=them, I/me=oh, us = toh

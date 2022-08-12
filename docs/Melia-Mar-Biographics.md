@@ -1,4 +1,4 @@
-### Biographical Info: MeliaMar is split between to continents (Rocevelen and Berringia), and the large island of Barcazona.
+### Biographical Info: Melia Mar is split between to continents (Rocevelen and Berringia), and the large island of Barcazona.
 
 ![[MeliaMarMap.png]]
 
@@ -10,22 +10,22 @@ Roclesia: The Roclesian Empire was ruled first by a
 	for a long time, before the Tabradian tribes once
 	broke free. Recently, a southern portion of the empire
 	has also declared independence, and are closely
-	alligned to the Sidio Barcans. The empire is starting
+	aligned to the Sidio Barcans. The empire is starting
 	to regain power, however. Roclesia is the most
 	advanced country magically, because they stole much
 	of the work of the Tabradians. They also are the most
 	wealthy.
 
 ## Tabradia: 
-Grey to actually dark complextions
+Grey to actually dark complexions
 	with amber eyes with no-pupils. Tabradians
-	were once the bigest nation on the Rocevelen
+	were once the biggest nation on the Rocevelen
 	continent. Then the War of the Magi happened and 
-	Gamesh took over the contintent. The Tabradians became
+	Gamesh took over the continent. The Tabradians became
 	second-class citizens and their magical knowledge
 	was stolen by the new overlords. This last a long time
 	but eventually Tabradians shrugged off the Roclesians.
-	They skirmish with them occassionally, but they 
+	They skirmish with them occasionally, but they 
 	remain independent. They are magically adept. 
 
 ## Rociaran: 
@@ -38,22 +38,22 @@ League of independent Roclesian cities who
 	however as Roclesia regains power.
 
 ## Barcazona:
-Sidio Barca:Tan skin. Newer civilization that sprung 
+Sidio Barca: Tan skin. Newer civilization that sprung 
 	up as they developed sea vessels that could 
-	travel across to Rocevelen and Cumacura (seas are very
+	travel across to Rocevelen and Cuma Cura (seas are very
 	rough) and more recently even to Berringia. Ruled by
 	a Duke with a Senate and significant wealthy families.
 	Think Venice mixed with some Turkish elements. 
 	
-## Cumacura: 
+## Cuma Cura: 
 Varied people groups. Known by the sb's as
-	the Spice Islands. Variety of Flaura and fauna not
+	the Spice Islands. Variety of Flora and fauna not
 	seen in the rest of the world. 
 
 # Berringia:
 
 ## Eskillia: 
-Pale to fair complextion, Built an entire
+Pale to fair completion, Built an entire
 	kingdom centered around using the Stone of Eskil
 	to build up the Iron City. When the Stone rejected
 	the last prince, the city went into disarray. Since
@@ -63,7 +63,7 @@ Pale to fair complextion, Built an entire
 	which are plagued by bandits and Pevolian raiders.  
 
 ## Pevolia: 
-Variety of complextions. Major religion is
+Variety of complexions. Major religion is
 	the Pevolian Pantheon, with the Church of Diacci 
 	coming in a close second. They conquered the western
 	territory within the last 100 years from the two
@@ -76,10 +76,10 @@ Variety of complextions. Major religion is
 	is home to many large cities and magical institutions. 
 
 ## Mildabia: 
-Mostly darker complextions except Pilgrims
+Mostly darker complexions except Pilgrims
 	who come from all over to worship the God's of
 	Diacci. Mildabia is divided into districts and cities
-	but moreso ruled by the Church of Diacci, which
+	but more so ruled by the Church of Diacci, which
 	is not only the majority religion in the country, but
 	also all of Berringia. 
 
@@ -150,7 +150,7 @@ currently on their land.
 Pevolians do not have a state religion. Some incorporate
 Lobrexian deities into some local religions. There's a fair
 amount of "magic worshippers" and nonbelievers. There's also
-a significan amount of Diaccians within Pevolia, who are
+a significant amount of Diaccians within Pevolia, who are
 not loyal to the Khassar. 
 
 The Church of Diacci was founded in Mildabia, in what is now
@@ -174,7 +174,7 @@ bones of the dead litter the landscapes. Those
  who were considered great get their statues warped into
 statues of magical creatures. The Yubians believe that one
 day the statues will hatch and the Yubians will be reborn.
-There recently also has been a contigent of Diacci believers.
+There recently also has been a contingent of Diacci believers.
 
 --------------------------------------------------------------
 # Fantasy Stuff:

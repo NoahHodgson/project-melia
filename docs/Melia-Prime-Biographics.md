@@ -7,7 +7,7 @@ generally worship the Mer-Gods or "The Pentatheon" (5 Gorumez).
 
 ## Kingdom of Haulfin: 
 90% Human and ~10% other things. Smaller Kingdom. Mostly human and pretty mundane. Occassionally
-sees outbreaks of monsters. People generally worship "The Pentatheon" or ocassionally the Pact of Blood.
+sees outbreaks of monsters. People generally worship "The Pentatheon" or occasionally the Pact of Blood.
 
 ## Riverdeep: 
 60% Mer and 40% Human. A confederation-state. Exists as a collaboration between Humans and Mer, don't
