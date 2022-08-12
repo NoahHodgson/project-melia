@@ -1,4 +1,6 @@
-***Note: Half-Races get counted as human, since that is what their offspring will be***
+![[Melia Prime 2021-04-27-11-50.png]]
+
+**Note: Half-Races get counted as human, since that is what their offspring will be***
 
 ## Kingdom of Westmere: 
 Like 80% Human and 20% Mer. Standard medieval fantasy kingdom with a good friendship with
