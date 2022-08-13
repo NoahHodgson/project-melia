@@ -70,9 +70,9 @@ War of Mages: Roclesia attacks Tabradia-> Tabradia
 easily handles the non-magic Rocevelen soldiers ->
 Rocevelen's grow to hate "Tabi Witches" -> Rhalyf
 betrays his people, and reveals the secret of magic
-to Gomash -> Rocevelen and Tabradians fight a bloody
+to Gamesh -> Rocevelen and Tabradians fight a bloody
 war. War ends in a unified continent ruled for centuries
-by Gomash's descendants, and extended family tree.
+by Gamesh's descendants, and extended family tree.
 
 In this era the Roclesian Empire and Sidio Barca have a healthy
 trade relationship. Sidio Barca is nowhere near as strong as the
@@ -142,7 +142,7 @@ Eventually they discover the rest of the Eastern Civilizations and
 set up some trade routes. Around this time also, the Tabradian lands
 gain independence as the structure of the Rocevelen royal family fell
 apart, leading to the formation of the four houses, each an off-shoot
-of the lineage of Gomash. Pevolia goes to war with the princes again,
+of the lineage of Gamesh. Pevolia goes to war with the princes again,
 but after two major battles, the Diacci Church intervenes and helps
 establish a truce. The Church's influence continues to grow. 
 
