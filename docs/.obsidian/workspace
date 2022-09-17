@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "97894a31e5deacf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e146735395498e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Melia-Prime-History.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e479f1f310954fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d304ecce0c59f8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c18d81552544def",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "376723f28b03d04a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "948f08628c67178f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b763b5c890af202e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8b2840d8ed2994",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee44b0387f448d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Melia-Prime-History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2790aaab44e3e7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Melia-Prime-History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75e7ec49d821ca36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4a154cc1ffe71e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Melia-Prime-History.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a2e146735395498e",
+  "lastOpenFiles": [
+    "Melia-Prime-Biographics.md",
+    "Melia-Prime-History.md",
+    "Melia-Mar-Tidbits.md",
+    "Melia-Mar-Biographics.md",
+    "Melia-Cosmic-History.md",
+    "Characters-to-Know/Eskil.md",
+    "Melia-Cosmic-Biographics.md",
+    "Characters-to-Know/Cheron.md",
+    "Melia-Recaps-4.md",
+    "index.md"
+  ]
+}

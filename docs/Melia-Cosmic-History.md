@@ -1,7 +1,8 @@
 ## The Before Time:
-The last Yassuo dies, his skull splits open and The Creators spring forth.
+The second to last Yassuo dies, his skull splits open and The Creators spring forth.
 
-Cheron, the painter of the afterlife, just exists.*
+Cheron, the painter of the afterlife, is the last Yassuo who exists to maintain the
+afterlife.
 
 The Creators (mice) Used "Magic" (code)
 to create and sculpt an uninhabited planet. Why they
@@ -12,16 +13,12 @@ what happened.
 
 
 ## Melia Prime and Reign of Eblis:
-For eons the original Melia was a 
-chaotic world with many civilizations thriving and fighting.
-Eventually Fiend Tyrant [[Eblis]] overran the world with foul monsters 
-and his army of fiends, that he created. The Creators (mice)
+For eons the original Melia was a chaotic world with many civilizations thriving and fighting.
+Some gods knowns as [[Melia-Cosmic-Biographics#The Kosol|the Kosol]] invaded and ravished the original inhabitants.
+Eventually, [[Eblis]] rose up and destroyed the Kosol. The Creators (mice)
 don't really have time to keep an eye on things, however,  they
 did take notice and eventually recognized the fate of the original
-Melia. They recognized the Tyrant [[Eblis]] had destroyed what
-could have been a prosperous planet and could have produced people
-capable of participating in the "Cosmic Journey". Furthermore, his 
-power was that which could rival The Creators, themselves.
+Melia. Eblis's power was that which could rival The Creators, themselves.
 
 The Creators don't have all the time in the universe on their hands. 
 They also found it difficult to find/kill [[Eblis]]. They do recognize where his 
@@ -79,7 +76,7 @@ trade relationship. Sidio Barca is nowhere near as strong as the
 Roclesians, but also valuable enough not to outright conquer.
 
 Meanwhile in the East, there was a history of conflicts. Eskillia
-was the dominant super power. The Pevolia would often lead
+was the dominant super power. Pevolia would often lead
 raiding parties and there were battles in southern Eskillia.
 Eskillia was also much larger than it's modern borders, so "southern
 Eskillia" is now what part of Mildabia and Pevolia. In this
@@ -87,7 +84,7 @@ era Pevolia also had many wars against the princes of the east,
 and these wars are known as the First War of Princes,
 Second War of Princes, and the Final War of Princes, the result of
 the final war being the three Princedoms, who often fought small
-wars amongst themselves, banned together and formed a non-aggression
+wars amongst themselves, banded together and formed a non-aggression
 pact to drive out the Pevolian horde. This alliance is the peak 
 power of the princedoms, after this there power waned and they
 fought amongst themselves eventually again. Mildabia is poor desert
@@ -97,14 +94,14 @@ is where the silence would end.
 ## Expanded Era:
 Era of silence ends when the Agltthim descend from the sky
 and encounter a Mildabian man. The Mildabian man is blinded by
-their hideous faces. The Agltthim feel bad, and since wear masks
+their bright faces. The Agltthim feel bad, and since wear masks/hoods
 whenever they come to Melia Mar. They talk for a long time with
 the blind man, who then becomes their "prophet", delivering a 
 message that the Agltthim are the messengers of the gods, and 
 "the prophet" has been sent to deliver the people of Mildabia from
 poverty. The religion takes off like wildfire, especially after the
 Agltthim start making public appearance with "the prophet". This
-led to the formation of the Church of Diacci. "The Blind Prophet"
+led to the formation of the Church of the Diacci. "The Blind Prophet"
 becomes the first high priest. Many more follow, each propped up
 by visits from the Aglthiim. Aglthiim are Wanderers from a world
 created after the old gods, and now pass through Melia Mar as did
@@ -122,7 +119,7 @@ want to use the stone. There is way more to the story and both sides
 are compelling. The Last Prince does not view [[Eskil]]as a benevolent
 figure and sees him as a god who has ruled the kingdom from the shadows.
 This is partially true, and the prince had the audacity to tell that to
-"Eskil". [[Eskil]]reminds the Prince that he is a god. The Prince again
+"Eskil". [[Eskil]] reminds the Prince that he is a god. The Prince again
 rebuffs the covenant that the princes of Eskillia had kept for tens of
 generation. [[Eskil]]reveals his true name to the Prince. He reveals to the
 prince the origins of universe, and that [[Eskil]]would be rash with his
@@ -157,5 +154,5 @@ of the Rociaran League ***
 
 ## Descent Era:
 Next age to come. Agltthim come down and wreck things up. Nature of
-the universe potentially revealed. Agltthim might try to free [[Eblis]].
+the universe potentially revealed to the Melians.
 

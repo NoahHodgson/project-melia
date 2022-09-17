@@ -1,18 +1,15 @@
 # Melia Mar Cosmic Biographics
 
+## Disambiguation: Tiers of Beings
+* Tier 1: Sentient Life.
+* Tier 2: Beings who have discovered atomic reformation, or know some multicasting and componentless casting.
+* Tier 3: Can do both of the above and can perform interstellar travel.
+
 # The Yassuo:
-Ancient beings that originally existed. Long since died. When the last one died, his skull
-	split open and The Creators poured out.
+Ancient beings that originally existed. They were souls that existed without magic. They were eternal beings who almost all decided to cease existence. When the second to last one died, his skull split open and The Creators poured out. [[Cheron]] is the last one in existence, and she is the one who guides souls to rest in the afterlife.
 
 # The Creators:
-Little guys who look like mice. They created the universe using powerful magic.
-	They have increased intelligence, but lack some social skills. They created
-	life in order to observe how fast different types of creatures and planets
-	could advance. The goal of the creations is to reach the center. 
-
-The 5 Tests: One make civilization. Two survive a planet level war. Three survive
-	a planet level devastation event. Four discover immortality. Five discover
-	interstellar travel.
+First magical creatures. Extradimensional beings. Little guys who look like mice. They created the universe using powerful magic. They have increased intelligence, but lack some social skills. They create life in order to observe how fast different types of creatures and planets could advance. The goal of the creations is to reach the center where the creations will be rewarded with eternal peace. 
 
 # The First Melians:
 Planet created towards the middle of the lifespan of the race project.
@@ -21,11 +18,9 @@ Planet created towards the middle of the lifespan of the race project.
 	There were the Melia-mers who lived in the sea. The Melia-sha who dwelled on the
 	beaches and in the field, generic humanoids. The Melia-Kwy, who dwelled 
 	in the hills and were able to use incredible earth-stonoco; they had pupil-less green
-	eyes, some had other colors and were adept with other magic. Some societies 
-	intermingled, but the Mers mostly kept to themselves. The Pan and the Kwy 
-	did fight some great wars though.
+	eyes, some had other colors and were adept with other magic. There was also giants in the frozen north. Some societies intermingled, but the Mers mostly kept to themselves. The Pan and the Kwy did fight some great wars though.
 
-(Mers were the only First Melians to survive the destruction event)
+(Mers and Frost Giants were the only First Melians to survive the destruction event)
 
 # The Gorumez:
 The created beings who first visited the first Melians. They were humanoid but glowed
@@ -37,14 +32,14 @@ A race of beings that over time grew too weak to complete their cosmic quest. Se
 	in quiet Melia Prime.
 
 # The Kosol:
-Kosol were reptilian-like people. They stopped on the first Melia Mar.
+Kosol were reptilian-like people. They stopped in Melia Prime.
 	They alternated between walking on 2 and 4 legs. They were seen as intruders
-	in Melia Mar. Unlike other travelers, they lacked the tact to play gods 
+	in Melia Prime. Unlike other travelers, they lacked the tact to play gods 
 	or anything divine. They also had a brash streak setting up a dominion in the
-	center of Melia Mar. Some were known for killing Melians for on occasion fun.
+	center of Melia Prime. Some were known for killing Melians for on occasion fun.
 	(Gorilla Lizards) Melians eventually started having fights with the Kosol. This led to the biggest
 	war Melia ever faced. The Pan began to modify their genetics in order to get the
-	upper hand over the lizards.
+	upper hand over these lizards.
 
 # The Tyrants:
 Eventually the Pan modify their genetics so much they were considered a different
@@ -60,18 +55,17 @@ Eventually the Pan modify their genetics so much they were considered a differen
 Second Melians are the ones currently in the "Fated Voyage" campaign. Not varied, unlike
 	the First Melians. There DNA structure resemble the Melia-sha. The Tabradians do have a
 	little bit more in common with the Kwy, but not enough to make them a different species.
-
-They populate the two continents and are still at phase one of the cosmic levels.
+	They populate the two continents and are still at tier one of the cosmic levels.
 
 # The Terrans:
-Terrans are lower power beings that made it to phase five. They visited Melia for a time
+Terrans are lower power beings that made it to tier 2/3. They visited Melia for a time
 	but most fairly quickly left. Some are still worshipped by the Second Melians as deities.
-	Deniz for example is a Terran.
+	Dennis for example is a Terran.
 
 # The Ador:
-Ador were higher power beings that made it to phase five. They passed through Melia
+Ador were higher power beings that made it to tier 3. They passed through Melia
 	around the same era that the Terrans did. They have much greater power than the Terrans did,
-	but still chose to play "the game". The god of the Eskil is one example.
+	but still chose to play "the game". The god of the Eskillians is one example.
 
 # The Verenfer:
 Cosmic space worms. They have a small base that latches on to a living host and then a dozen

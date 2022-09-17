@@ -5,17 +5,17 @@
 # Rocevelen
 ## Roclesia: 
 The Roclesian Empire was ruled first by a
-	great king, a Alex/JC type guy who conquered it named
+	great king, a Alexander the Great/JC type guy who conquered it named
 	Gamesh. He managed to overwhelm the magically adept
 	Tabradians with sheer numbers. They ruled as an empire
-	for a long time, before the Tabradian tribes once
-	broke free. Recently, a southern portion of the empire
+	for a long time, before the Tabradian tribes gained more independence. 
+	Recently, a southern portion of the empire
 	has also declared independence, and are closely
-	aligned to the Sidio Barcans. The empire is starting
-	to regain power, however. Roclesia is the most
-	advanced country magically, because they stole much
-	of the work of the Tabradians. They also are the most
-	wealthy.
+	aligned to some of the Sidio Barcans. The empire is starting
+	to regain power, however. 
+	
+Roclesia is the most advanced country magically, because they stole much
+	of the work of the Tabradians. They also are the most wealthy.
 
 ## Tabradia: 
 Grey to actually dark complexions
@@ -27,7 +27,7 @@ Grey to actually dark complexions
 	was stolen by the new overlords. This last a long time
 	but eventually Tabradians shrugged off the Roclesians.
 	They skirmish with them occasionally, but they 
-	remain independent. They are magically adept. 
+	have some independent. They are magically adept. 
 
 ## Rociaran: 
 League of independent Roclesian cities who
@@ -65,21 +65,21 @@ Pale to fair completion, Built an entire
 
 ## Pevolia: 
 Variety of complexions. Major religion is
-	the Pevolian Pantheon, with the Church of Diacci 
+	the Pevolian Pantheon, with the Church of the Diacci 
 	coming in a close second. They conquered the western
 	territory within the last 100 years from the two
 	princedoms. Pevolia used to be a lesser rival to 
 	Eskillia, but after her fall became the regional power
 	Pevolia wants to move in and take the Eskillian city
 	states by force, but do not due to religious pressure
-	from the Church of Diacci. Ruler is called Khassar. 
+	from the Church of the Diacci. Ruler is called Khassar. 
 	They are the most-advanced power on Berringia, and 
 	is home to many large cities and magical institutions. 
 
 ## Mildabia: 
 Mostly darker complexions except Pilgrims
-	who come from all over to worship the God's of
-	Diacci. Mildabia is divided into districts and cities
+	who come from all over to worship the Diacci Council (High Aglthiim). 
+	Mildabia is divided into districts and cities
 	but more so ruled by the Church of Diacci, which
 	is not only the majority religion in the country, but
 	also all of Berringia. 
@@ -89,8 +89,7 @@ Grey to Yellow Complextions. Religion a mix
 	of Diacci and local/regional deities. Mining-based.
 	Prince is like a Khan, with a large/extended royal
 	family. Culture a mix of Pevolian and the two southern
-	princedoms. On bad terms with, Olorodnia and Pevolia.
-	Economy shifting to be mining based.
+	princedoms. Economy shifting to be mining based.
 
 ## Olorodnia: 
 Warm Complextions, follow the church of
@@ -108,14 +107,17 @@ Grey to Warm Complextion, Ancestor Worshippers
 	resources.
 
 # Non-contintental:
-Mer-Tides: Fangs, fins, but otherwise very humanlike. The Mer
+## Mer-Tides: 
+Fangs, fins, but otherwise very humanlike. The Mer
 	are an ancient race that precede the other Melians. They
 	live in the seas in the south betweeen the continent.
 	The larger concentrations exist on atolls farther south in 
-	the world.
+	the world. They have a very advanced civilization but
+	some of their cultural heritage isolates them from other
+	Melians.
 	
-The Frozen North:
-	Frost giants roam the icey wastes.
+## The Frozen North:
+Frost giants roam the icey wastes.
 
 --------------------------------------------------------------
 # Religion: 
@@ -124,7 +126,8 @@ Rocevelen religion primarily worship the Pantheon
 of the All-Father. Basically an Odin-type figure. Local
 deities are incorporated into the religion. The All-Father is
 somehow the progenitor of all of the other gods. Loki-like
-figure called Qali, a trickster.
+figure called Qali, a trickster. They worship Gamesh as well as 
+a sort of hero-king.
 
 Tabradi worship Melia, a Gaia-like goddess. Nature-y Druid-y,
 but also with some darker elements. Death is also a crucial
@@ -135,11 +138,11 @@ is only handled by their most skilled mages, unlike magic
 schools in other cultures where fire spells are scene as 
 more amateur. 
 
-Sidio Barcans worship the god of the sea, Deniz. They believe
-in other gods and spirits, but Deniz is the only god that
+Sidio Barcans worship the god of the sea, Dennis. They believe
+in other gods and spirits, but Dennis is the only god that
 holds any power. They wear necklaces with a five sided
 ship-steering wheel, which is said to bring good-luck at sea,
-a way for Deniz to identify you.
+a way for Dennis to identify you.
 
 Eskillians believed that the gods visited them long ago and
 gave them the Stone of Eskil. After the fall of Eskillia,
@@ -150,29 +153,29 @@ currently on their land.
 
 Pevolians do not have a state religion. Some incorporate
 Lobrexian deities into some local religions. There's a fair
-amount of "magic worshippers" and nonbelievers. There's also
-a significant amount of Diaccians within Pevolia, who are
+amount of "magic worshippers" called the Church of Ishtar and nonbelievers. 
+There's also a significant amount of Diaccians within Pevolia, who are
 not loyal to the Khassar. 
 
-The Church of Diacci was founded in Mildabia, in what is now
+The Church of the Diacci was founded in Mildabia, in what is now
 the capitol city. "Agltthim" descended and delivered a message
-to a man revealing the "secrets of the universe". There were
-witnesses and that man became the first High Priest 
-The angels would continue to periodically visit the city and 
+to a man revealing the "secrets of the universe". There was a
+single witness and that man became the first High Priest 
+The Aglthiim would continue to periodically visit the city and 
 the religion gained recognition as the real deal. Agltthim
-look like angels with colorful wings and masks that obstruct
-their entire face. Since their descent (a few hundred years
-ago), the Diacci faith is now practiced Mildabia, Olorodnia,
-and all across the continent. 
+look like angels with colorful wings and the more powerful 
+ones wear masks that obstruct their entire face. Since their descent
+(a few hundred years ago), the Diacci faith is now practiced Mildabia,
+Olorodnia, and all across the continent. 
 
 Lobrexians worship their own pantheon, the primary god
 being the Hammerlord Orsan. This god in legend is said to
 have built the forges for the Lobreux and taught them the
 value of metals.
 
-Yubians primarily  worship their ancestors. Statues containing 
+Yubians primarily worship their ancestors. Statues containing 
 bones of the dead litter the landscapes. Those
- who were considered great get their statues warped into
+who were considered great get their statues warped into
 statues of magical creatures. The Yubians believe that one
 day the statues will hatch and the Yubians will be reborn.
 There recently also has been a contingent of Diacci believers.

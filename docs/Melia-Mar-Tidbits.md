@@ -51,8 +51,8 @@ Altin: Small trade family, they don't venture far out to sea. Very tall, known f
 	
 ## Swears 
 unkmot a: 1000 deaths may you suffer (f you). Commonly used
-in Roclesian and Barcazoan. Picking up use as BZ is gaining
-speed in the East.
+in Roclesian and Barcazoan. Picking up use as BZ is gaining speakers
+in the East.
 
 hyuk: basically damn in BZ
 grav: the grave, same level as "hell" in BZ
