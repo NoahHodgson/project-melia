@@ -43,12 +43,12 @@ to humans) and often aided or formed some type of relations
 with humankind. Some would help and pass through,
 others would stay for awhile. The god of Eskillia in 
 particular dwelled there until its much later fall. 
-The god of Eskillia is known as "Eskil", but his true name
+The god of Eskillia is known as "[[Eskil]]", but his true name
 was "Nahralib Fuella". That does not translate easy into Eskillian.
 Anyway, the era of these ethereal wanderers helped calm the
 people as they began to think big picture on the future.
 
-One people group, were the Tabradians. They witnessed The Creators
+One people group, were the [[Melia-Mar-Biographics#Tabradia|Tabradians]]. They witnessed The Creators
 do magic. It is interwoven into their tradition. Mimicking The Creators
 the Tabradians are able to use magic. Tabradians, for interstellar
 context, are far ahead of the majority of species because the mice
@@ -59,11 +59,11 @@ got sloppy and were still cleaning up Melia Mar after dealing with [[Eblis]].
 After awhile almost all of the higher beings travelled 
 beyond Melia Mar, much like The Creators before them.
 Soon, accounts became religion and religions became myth.
-Outside of Eskillia, not one higher-being, who made
+Outside of [[Melia-Mar-Biographics#Eskillia|Eskillia]], not one higher-being, who made
 themselves known remained on Melia Mar. In this era, 
 the countries we know today + the War of the Mages happens
 
-War of Mages: Roclesia attacks Tabradia-> Tabradia
+War of Mages: [[Melia-Mar-Biographics#Roclesia|Roclesia]] attacks Tabradia-> Tabradia
 easily handles the non-magic Rocevelen soldiers ->
 Rocevelen's grow to hate "Tabi Witches" -> Rhalyf
 betrays his people, and reveals the secret of magic
@@ -71,7 +71,7 @@ to Gamesh -> Rocevelen and Tabradians fight a bloody
 war. War ends in a unified continent ruled for centuries
 by Gamesh's descendants, and extended family tree.
 
-In this era the Roclesian Empire and Sidio Barca have a healthy
+In this era the Roclesian Empire and [[Melia-Mar-Biographics#Barcazona|Sidio Barca]] have a healthy
 trade relationship. Sidio Barca is nowhere near as strong as the
 Roclesians, but also valuable enough not to outright conquer.
 
@@ -79,7 +79,7 @@ Meanwhile in the East, there was a history of conflicts. Eskillia
 was the dominant super power. Pevolia would often lead
 raiding parties and there were battles in southern Eskillia.
 Eskillia was also much larger than it's modern borders, so "southern
-Eskillia" is now what part of Mildabia and Pevolia. In this
+Eskillia" is now what part of [[Melia-Mar-Biographics#Mildabia|Mildabia]] and [[Melia-Mar-Biographics#Pevolia|Pevolia]]. In this
 era Pevolia also had many wars against the princes of the east,
 and these wars are known as the First War of Princes,
 Second War of Princes, and the Final War of Princes, the result of
@@ -149,10 +149,15 @@ where the rest of the Rocevelen Empire does not want risk war with
 them. At this point world politics has begun and the East and West
 know pretty well of the other. 
 
-***Current Campaign Takes Place Around 10 Years of the Independence
-of the Rociaran League ***
+**Fated Voyage Campaign Takes Place Around 10 Years of the Independence
+of the Rociaran League and dips into the next era.
 
 ## Descent Era:
-Next age to come. Agltthim come down and wreck things up. Nature of
-the universe potentially revealed to the Melians.
+Next age to come. Agltthim come down and get involved in the Pevolia-Mildabia War
+by launching a pre-emptive strike on the the Pevolian Capitol. This is known as
+the day of rage.
+
+Meanwhile Eblis and the remaining Tyrants uses his magic to possess some 
+of the inhabitants of Melia Marin hopes of exacting his revenge on
+[[Melia-Cosmic-Biographics#The Creators|The Creators]] and [[Steven]].
 

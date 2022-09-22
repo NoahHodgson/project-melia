@@ -22,10 +22,10 @@ Lobreuxian agriculture primarily based on mushrooms and cave moss.
 
 Trade-language/Western-Common called "BZ"
 
-Eskelia, MD, and Pevolian all have same root language called "Mother"
+Eskellia, MD, and Pevolian all have same root language called "Mother"
 
 ## Sidio Barca
-Sidio Barcan phrases include: "you eat like a mer" and "Deniz betwixt"
+Sidio Barcan phrases include: "you eat like a mer" and "Dennis betwixt"
 
 Eight Major Trade Families of Sidio Barca:
 	Heelos, Myotos, Kirpara, Pyvenk, Dalga, Pierro, Koleci, Altin 

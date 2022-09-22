@@ -45,6 +45,66 @@ At the moment of impact, [[Ghost]] was whisked away from her ghostly projection 
 
 That's when [[Eblis]] possessed the iceberg in front of the ship, transforming it into an Ice Elemental. Through Lorenzo's experienced helmsmanship and [[Oren]]'s onslaught of explosive arrows, the party was able to outrun the elemental, though it still was in hot pursuit. The ship had suffered serious damage, and was in need of repairs. They also needed to turn over the captured pirates to the proper authorities. [[Leona]] suggested making a pitstop in [[Melia-Mar-Biographics#Cuma Cura|Cuma Cura]] to which [[Lorenzo]] and [[Brutus]] agreed.
 
-The party arrived on the spice island, it was small but had a dockyard where the ship could be repaired, and dino-like birds that were much smaller than [[Chris]]. The gang headed to a lovely inn-bar hybrid. The bartender was happy to provide info about the dockyard, however he was wary about offering information on turning in the pirates. The barkeep, Jimmy Santina, explained that there were some rather intimidating pirates who had arrived yesterday and were held up in the back of the bar. The party looked back, and who did they see? [[Giocar]], [[Jhun]], [[Mondo]] the Fishman, a rather well-dressed mage named Ronaldo, as well as a few more men whom they recognized from Giocar's ship, the Grand Reale. [[Giocar]] and [[Lorenzo]] had a friendly reunion. Giocar explained that (as the [[Jinn]] spy had reported) he was after a sword that could slay gods. [[Giocar]] was not after it to kill a god, no. He wanted to make a deal with gods, a trade. Ideally he wanted to gain immortality for both him and his adopted son, [[Jhun]]. There was some tension in the room when [[Lorenzo]] admitted that they to were seeking [[Oliviero]] and the sword that they were all after. [[Oren]] and [[Mondo]]'s friendship allowed for cooler heads to prevail. Especially as [[Leon]] caught [[Giocar]]'s eye. There was at least a temporary alliance.
+The party arrived on the spice island, it was small but had a dockyard where the ship could be repaired, and dino-like birds that were much smaller than [[Chris]]. The gang headed to a lovely inn-bar hybrid. The bartender was happy to provide info about the dockyard, however he was wary about offering information on turning in the pirates. The barkeep, Jimmy Santina, explained that there were some rather intimidating pirates who had arrived yesterday and were held up in the back of the bar. The party looked back, and who did they see? [[Giocar]], [[Jhun]], [[Mondo]] the Fishman, a rather well-dressed mage named Ronaldo, as well as a few more men whom they recognized from Giocar's ship, the Grand Reale. [[Giocar]] and [[Lorenzo]] had a friendly reunion. Giocar explained that (as the [[Jinn]] spy had reported) he was after a sword that could slay gods. [[Giocar]] was not after it to kill a god, no. He wanted to make a deal with gods, a trade. Ideally he wanted to gain immortality for both him and his adopted son, [[Jhun]]. There was some tension in the room when [[Lorenzo]] admitted that they to were seeking [[Oliviero]] and the sword that they were all after. [[Oren]] and [[Mondo]]'s friendship allowed for cooler heads to prevail. Especially as [[Leon]] caught [[Giocar]]'s eye. Giocar hoped that this would not harm his business relationships, attacking the Jinn, but he stated "If I am immortal, then business is booming." There was at least a temporary alliance.
 
 The trick that Giocar had for tracking [[Oliviero]] and [[Eblis]] was quite smart. His mage, Ronaldo, had captured a possessed foot soldier. Using magic Ronaldo was able to reverse-engineer the lens that the Tyrant's used to see what their followers saw (this is why the Forsakens' eyes glow). And (like the [[Jinn]] spy had stated), they were tracking the [[Oliviero]] to Bristok, a town in [[Melia-Mar-Biographics#Rocevelen|Rocevelen]]. This town was also where [[Leon]]'s father was count. 
+
+## Episode 4
+The Teknesi set sail from the island, followed closely by [[Giocar]], their new ally of sorts.  Bristok was getting closer every day. After a few days of the two ships sailing together, [[Oren]] had a dream. Like his dreams of the past, they were about his brother [[Althorn]]. This time however,
+him and his brother's consciousness in sleep drifted into each other. In other words,
+they were able to completely communicate. Althorn explained two things to Oren. One,
+that the [[Jinn]] ship was following the Teknesi. And two, that the situation for the prisoners aboard
+the Jinn ship had gotten dire. [[Skee]] had attempted a daring escape, but its failure had led to
+more cruelty from their captors.
+
+Althorn and Oren agreed that they did not want the relic to fall into the wrong hands. Oren explained to Althorn that they were now sailing with Giocar's ship. Maybe Giocar would be willing to help free the prisoners aboard the Jinn ship since defeating Jinn would mean there would be one less powerful entity after the sword.
+
+The next morning, Oren went to [[Lorenzo]] and explained his dream. Lorenzo knew that Oren was not crazy, but also did not know if Giocar would like attacking Jinn head-on. Lorenzo and Giocar had a little meeting before Giocar went back and consulted his skeleton-crew. [[Mondo]] was eager to help Oren save his friends and family, as Oren had once saved his life, [[Melia-Recaps-1#Episode 1|see here]]. Jon likewise had had his life saved by Oren, [[Melia-Recaps-2#Arc 2 Episode 7|see here]], and though he did not like Oren felt like he owed him. 
+
+Giocar decided that he would help the Teknesi crew save the prisoners and take out [[Jinn]]. They did a 180 degree turn and sailed to where Jinn would be. First they had to sail around the ice-elemental, which was still possessed by [[Lupine]] and also pursuing them. Lorenzo's steering got them around it with ease.
+
+Near midnight, while the Jinn ship drank heavily, the crew of the Teknesi, along with Giocar's men, ambushed Jinn. Ronaldo, the mage, took flight with magic and disabled the Jinn's ship cannons. He was spotted and took an arrow to the shoulder, more than that however the alarms were sounded aboard the Jinn ship. They however had no idea who was attacking them. 
+
+[[Ghost]] in front of the whole crew of the Teknesi took on her ghost form and flew over to where
+Jinn was on his ship. He was still seated at his table drinking his ale. Ghost, channeling an ungodly flow of magic stolen from [[Lupine]], called down a strike of lightning on her ghostly form.
+The air crackled, a flash of white light turning to crimson, then fading back to darkness and smoke. The red lightning strike carved a large whole through the deck of the Jinn ship. It also scarred Jinn across his chest as he was knocked out of his chair screaming in pain. He was looking around, but unable to find who had struck him with such power. The ice-elemental,
+attracted to the strike of Ghost soon began attacking the Jinn ship and the whole ship started to take on water.
+
+But [[Jinn]] got up. He saw the crew of the Teknesi begin to board his ship.  He was not going to go down, not like this. He was a god who had lived and fought for millennia. He had only ever lost one fight on this planet, and he did not intend to lose another. 
+
+## Episode 5
+[[Leon]] and[[Lorenzo]], along with [[Giocar]] and his men, stormed the [[Jinn]] ship. Leon and Jinn were locked in combat. Leon slashing, Jinn punching with fists stronger than any steel. Oren meanwhile used one of his hookshot arrows and shot across the other side of the ship. [[Chris]] flew closely behind. Oren dropped through the hole in the deck that [[Ghost]] had made with the lightning strike. He could see the prison cell where his brothers and friends were kept. Oren launched a volley of arrows, and Chris followed up with a flurry of bites taking out the prison guards.
+
+Meanwhile topside, Leon and Jinn continued their fight. Leon called upon the the powers of [[Tytactis]] and once again his eyes and sword lit with that same blue fire, burning brightly. Leon weaved through Jinn's punches as the strikes from his sword brought Jinn down to once knee.
+Leon and pierced his sword through Jinn's chest. Then stabbed him several times to make sure
+he was dead. As this happened however, the nature of Jinn's godhood was revealed. Golden flecks, coarser than dust but still less so than sand, began to coagulate around Jinn's wounds. 
+With Leon's sword still pierced in Jinn's shoulder, Jinn jolted back from the dead. With one hand
+he grabbed Leon's neck and with the other he punched Leon with a punch so explosive that he flew across to the other side of the ship. [[Ghost]] kept attempting to land a blow on Jinn, however he was too quick, as if he could sense the magic of Ghost pulsating in the air.
+
+Back below deck, Oren was able to free [[Althorn]], [[Skee]], Edwin, Blanca, and of course Portus. Using his hookshot arrows once again he sailed over the combat, carrying the rescued back to safety on the Teknesi.
+
+The fight raged on topside. With a thunderous clap, Jinn sent a shockwave that launched Giocar and his men off the side of the ship and into the cold depths. By now Jinn's men were organized and charging the boarding members of the Teknesi. Leon raced back to save Lorenzo from a vicious punch. Leon spit in Jinn's face, blinding him. Ghost then pierced her hand through Jinn's stomach. She reached through him and stole his wallet as well as cutting Jinn in half with her icey powers. Ghost's apparition then threw Jinn's legs off of the side of the ship, and Lorenzo used his ice magic to try and freeze Jinn's torso to the deck.
+
+At this point the crew of the Jinn ship cowered in fear and retreated, as their leader had been defeated. Giocar climbed back aboard to see what was left of the man that claimed to be a god. As he approached, Jinn's body writhed in agony as it tried to reform. Giocar with a swift stroke of his sword pierced the crown of Jinn's head and his body dissipated into that gold dust.
+
+"Not much of a god, are you." Giocar said with a smug look of superiority (even though he had done basically nothing this fight) The dust of Jinn was collected in barrels, to keep it from reforming or flowing to his two other half-forms. 
+
+The crew of the Teknesi looted the ship as the ice-elemental continued to destroy it. The Teknesi sailed away and watched as the ship of the once mighty Jinn sank. Oren had finally rescued his brothers and his friends, and their hearts yearned for home. Lorenzo while sympathetic was adamant that they already had set course for Bristok. Giocar, after all his intertangled adventures, offered to give Oren and his companions his own personal longboat. This however also meant that Giocar would also have to stay aboard the Teknesi now, much to Lorenzo's chagrin, though 
+he was not in a place to say anything given the strained alliance. Oren had one last heart-felt good bye with Skee and Chris before sailing away.
+
+[[Mondo]] the Fishman, followed Oren out to sea one last time, waving at the man who had save his life what felt like a long time ago. Oren was a hero and he smiled as he looked at his brothers, Blanca, and oh yeah that inscrutable alchemist, Portus. 
+
+The Teknesi sailed in another direction.
+
+## Interlude 
+[[Oliviero]] has gone radio-silent with [[Eblis]] and no longer visits the In-Between, so Ronaldo and the crew of the Teknesi has no idea what Oliviero is up to. 
+
+The crew a few weeks later from the [[Jinn]] encounter arrives in Bristok. Giocar with his wealth takes [[Leon]] and the crew of the Teknesi to the nearest tavern. Drinks are on him (just milk for [[Jhun]] though)!
+
+As they drink, they notice a pair of guards rushing down the cobblestone street. Then several more, then people begin fleeing the opposite way the guards are heading. Leon pokes his head to see that near where the temple of Bristok is, a pillar of fire has pierced the heavens. Next [[Lorenzo]] peeks out and a chill runs down his spine.
+
+With bated breath the captains says, "...Oliviero."
+
+# One Month Earlier
+
+
