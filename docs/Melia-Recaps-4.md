@@ -103,8 +103,39 @@ The crew a few weeks later from the [[Jinn]] encounter arrives in Bristok. Gioca
 
 As they drink, they notice a pair of guards rushing down the cobblestone street. Then several more, then people begin fleeing the opposite way the guards are heading. Leon pokes his head to see that near where the temple of Bristok is, a pillar of fire has pierced the heavens. Next [[Lorenzo]] peeks out and a chill runs down his spine.
 
-With bated breath the captains says, "...Oliviero."
+With bated breath the captain says, "...Oliviero."
 
-# One Month Earlier
+# One Month Earlier...
 
+## Episode 6
+[[Oliviero]] communed with the [[Melia-Cosmic-Biographics#The Tyrants|Tyrants]]. [[Eblis]] relayed information about his mission. His plans to drive the Frost Giants from their [[Melia-Mar-Biographics#The Frozen North|home]]. His machinations to release the monsters welled beneath [[Melia-Mar-Biographics#Eskillia|Eskillia]]. And his plans for the Tyrants to return from the safety of the In-Between and return to fight [[Melia-Cosmic-Biographics#The Creators|the Creators]]. One thing necessary for this is a "sword that can kill the gods". The components of such a weapon are made from the remains of the Creators themselves, pure magic. The remains of one lie in Bristok, Roclesia. Oliviero's mission is to, along with some helpers who are followers of the Tyrants, recover the remains in order to forge such a sword. 
 
+Oliviero inquired how such remains came to lie in Bristok. Eblis explained that he had killed a Creator long ago. He peeled back a piece of his chestplate and revealed a festering wound from the battle that after eons still had not healed. It was far better to acquire a sword that could kill gods to dare attempt to fight a Creator again.
+
+Oliviero returned back to the world of the living, back from the In-Between that is. He had arrived the day before at a lovely inn, run by a retired adventurer and cook called simply, [[Chef]].
+Oliviero retired to the inn's library. There he met a man in red robes who went by, [[The Red Herald]]. The Red Herald was reading a saucy book and had glowing eyes, that of the forsaken-the true followers of the Tyrants. Oliviero had met one of his 3 contacts. Meanwhile, walking into the inn came two more. First a rather tall, muscular, but deformed looking man. His name was [[Raxus]] and he was hungry. He made his way to a table and was served some food by a nervous barmaid. Last to walk in was really two. [[Gaelan]] and his pet cow, whom he insisted come in the bar with him. The barmaid, Melody, was already spooked from Raxus's entrance, let the cow inside with some objection. Melody went back into the kitchen to inform Chef of the unruly guests. 
+
+Meanwhile Oliviero and the Red Herald entered the dining hall and met all at one table with Raxus and Gaelan (and the cow). They all discussed the plans to head north to Bristok. The Red Herald new the gist of the plan but Gaelan and Raxus were rather out of the loop. Raxus was not much of a learned man. He, a follower of [[Lupine]] was much more into brute force. Gaelan did not care to learn the details of the mission and was more so focused on helping his new compatriots head north and with a low profile. At some point Oliviero noticed that the Chef was eyeing the table up, but soon looked away. Back at the table, a shrewd but dishonest local approached. He tried to extort the party for taxes. Raxus told the local that he had his taxes outside. The party was a bit confused but played along. Raxus and the local went outside and as soon as the door swung shut, Raxus murdered the local in cold-blood. The screams meant that the soldiers who were in the inn came to the door and when Raxus reentered it was rather obvious what he had done. The guards surrounded Raxus, but by his intimidating presence, the soldiers did not immediately attack. Oliviero knew that the party had to flee the inn immediately. He gave the order and The Red Herald and Gaelan headed for the door. Meanwhile Oliviero teleported to his room and grabbed his things and headed back down the stairs. On his way back, he was stopped by Chef who got in his way. 
+
+"I know what your friend is. Are you aware?"
+
+"What?"
+
+"He is Forsaken a follower of the Tyrants."
+
+"I am well aware of that," Oliviero replied as he bolted past Chef and headed out the door.
+
+The party managed to escape and traveled much of the night, setting up a camp in the woods. They attempted to gain a little bit of sleep, however, Raxus who was on watch discovered through his acute senses, that they had been followed.
+
+## Episode 7
+Yes the party had been followed. [[Chef]], along with 4 of the soldiers from the inn had followed them into the woods. [[Raxus]] awoke [[Oliviero]] and [[Gaelan]]. They assumed a fighting stance, however [[The Red Herald]] was not awoken until the fighting began. The party was flanked on both sides. Raxus and the cow fought the two men on the right. Oliviero, The Red Herald, and Gaelan took on those on their left. 
+
+Raxus managed to tear apart the two men he engaged in combat with, ripping them limb for limb. Meanwhile, Oliviero cast explosions and tidal waves, taking down all foes except Chef who wore a large, ornate set of armor. Oliviero and Chef were locked in combat. When Chef saw that all of his allies had fallen however, he began a tactical retreat. Blinking towards Chef, Gaelan got in range and pinned him down with his pitchfork. Oliviero continued to pepper Chef with explosions. Knowing he was beat, Chef surrendered. 
+
+"I yield."
+
+Upon the request of The Red Herald, the party interrogated Chef. Chef explained that long ago he had been a sailor. A crewmember, [[Pops]], was tempted by the [[Melia-Cosmic-Biographics#The Tyrants|Tyrants]]. He resisted and warned the crew of the Tyrants power. Chef did not like the presence of such a being in his inn, and after the murder of the local he had made it his mission to stop the party. The Red Herald was ready to cut Chef's neck with his knife, but Oliviero (perhaps out of kindness), decided against that. Instead Oliviero used ancient magic to erase Chef's memory of the past few days and he laid asleep in the grass. Meanwhile the party looted chef of his magical armor, his war hammer, and his magical compasses. 
+
+Without a good nights sleep, the party pressed on traveling until the reached the next town. There they were confronted by guards who claimed that monsters had been attacking livestock and townsfolk. The party was honest and said they knew nothing of it. The guards still requested that the party stay in lockdown over night to ensure that they (specifically the beastly looking Raxus) were not the culprits. The party rebuffed this however an unwitting Raxus revealed his claws, prompting the guards to rush to the Mayor's office. 
+
+Oliviero and Raxus got into an argument where in which they threatened each other, but Raxus admitting some fault was his for the past 12 hours. At the very least now, they had a town's attention, but maybe at least the shops and the blacksmiths would be kind to them.

@@ -1,0 +1,1 @@
+Warrior who sailed the seas with [[Pops]], has since retired and runs his own inn located in [[Melia-Mar-Biographics#Roclesia|Roclesia]].
