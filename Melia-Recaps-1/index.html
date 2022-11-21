@@ -1,0 +1,658 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-8.5.10" name="generator"/>
+<title>Melia Recaps 1 - project-melia</title>
+<link href="../assets/stylesheets/main.472b142f.min.css" rel="stylesheet"/>
+<link href="../assets/stylesheets/palette.08040f6c.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="slate" data-md-color-primary="red" data-md-color-scheme="default" dir="ltr">
+<script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#arc-1-prologue">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="project-melia" class="md-header__button md-logo" data-md-component="logo" href=".." title="project-melia">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            project-melia
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Melia Recaps 1
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="slate" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="red" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_2" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path></svg>
+</label>
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="red" data-md-color-scheme="slate" id="__palette_2" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"></path></svg>
+</label>
+</form>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="project-melia" class="md-nav__button md-logo" data-md-component="logo" href=".." title="project-melia">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+    project-melia
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="..">
+        Home
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Cosmic-Biographics/">
+        Melia Mar Cosmic Biographics
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Cosmic-History/">
+        Melia Cosmic History
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Mar-Biographics/">
+        Melia Mar Biographics
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Mar-Tidbits/">
+        Tidbits
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Prime-Biographics/">
+        Melia Prime Biographics
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Prime-History/">
+        Melia Prime History
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Melia Recaps 1
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        Melia Recaps 1
+      </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#arc-1-prologue">
+    Arc 1 Prologue:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-1">
+    Episode 1:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-15">
+    Episode 1.5:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-2">
+    Episode 2:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-3">
+    Episode 3:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-4">
+    Episode 4:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-5">
+    Episode 5:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-6-and-7">
+    Episode 6 and 7:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-8">
+    Episode 8:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-9">
+    Episode 9:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-10">
+    Episode 10:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-11">
+    Episode 11:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-12">
+    Episode 12:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-13">
+    Episode 13:
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Recaps-2/">
+        Melia Recaps 2
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Recaps-3/">
+        Melia Recaps 3
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Recaps-4/">
+        Melia Recaps 4
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Melia-Sidequests/">
+        Melia Sidequests
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_13" id="__nav_13" type="checkbox"/>
+<label class="md-nav__link" for="__nav_13">
+          Characters to Know
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Characters to Know" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_13">
+<span class="md-nav__icon md-icon"></span>
+          Characters to Know
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_13_1" id="__nav_13_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_13_1">
+          NPCs
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="NPCs" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_13_1">
+<span class="md-nav__icon md-icon"></span>
+          NPCs
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Althorn/">
+        Althorn
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Brutus/">
+        Brutus
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Chef/">
+        Chef
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Cheron/">
+        Cheron
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Denesi/">
+        Denesi
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Eblis/">
+        Eblis
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Eskil/">
+        Eskil
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Giocar/">
+        Giocar
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Jericho/">
+        Jericho
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Jinn/">
+        Jinn
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Leona/">
+        Leona
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Lucien/">
+        Lucien
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Lupine/">
+        Lupine
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Mondo/">
+        Mondo
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Nico/">
+        Nico
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Pops/">
+        Pops
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Skee/">
+        Skee
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Steven/">
+        Steven
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/NPCs/Tytactis/">
+        Tytactis
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" data-md-toggle="__nav_13_2" id="__nav_13_2" type="checkbox"/>
+<label class="md-nav__link" for="__nav_13_2">
+          Player Characters
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-label="Player Characters" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_13_2">
+<span class="md-nav__icon md-icon"></span>
+          Player Characters
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Chris/">
+        Chris
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Gaelan/">
+        Gaelan
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Ghost/">
+        Ghost
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Jhun/">
+        Jhun
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Leon/">
+        Leon
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Lorenzo/">
+        Lorenzo
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Mako/">
+        Mako
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Oliviero/">
+        Oliviero
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Oren/">
+        Oren
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Raxus/">
+        Raxus
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/The%20Red%20Herald/">
+        The Red Herald
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Characters-to-Know/Player%20Characters/Tomakin/">
+        Tomakin
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#arc-1-prologue">
+    Arc 1 Prologue:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-1">
+    Episode 1:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-15">
+    Episode 1.5:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-2">
+    Episode 2:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-3">
+    Episode 3:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-4">
+    Episode 4:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-5">
+    Episode 5:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-6-and-7">
+    Episode 6 and 7:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-8">
+    Episode 8:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-9">
+    Episode 9:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-10">
+    Episode 10:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-11">
+    Episode 11:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-12">
+    Episode 12:
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#episode-13">
+    Episode 13:
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>Melia Recaps 1</h1>
+<h2 id="arc-1-prologue">Arc 1 Prologue:<a class="headerlink" href="#arc-1-prologue" title="Permanent link">¶</a></h2>
+<p>So there's this party. A honorable archer, a charming thief, a young mage, and a shrewd captain with an awesome pet pterodactyl. They sail on a small but impressive ship called the Teknesi. The goal? To take the young mage to a distant magical kingdom called <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a>  as well as deliver a secret trove of illegal spices. Sailing with the party on the Teknesi is the captain's first mate, known as <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> is accompanied by his lovely wife, <a href="../Characters-to-Know/NPCs/Denesi/">Denesi</a>. Also the comical young deckhand, <a href="../Characters-to-Know/NPCs/Skee/">Skee</a>. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> the Archer, <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> the Thief, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> the Mage, and Captain <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> Pierro (with <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> the Pterodactyl). </p>
+<h2 id="episode-1">Episode 1:<a class="headerlink" href="#episode-1" title="Permanent link">¶</a></h2>
+<p>The party is at a lovely inn in the Spice Islands. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> is at the bar while his party is at a table
+waiting for him. It will be awhile before <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> will be able to enjoy the luxuries of land again.
+<a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> is in line to be the Head of the Pierro family and sails the seas for treasure and prestige.
+Anyways, <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> didn't realize sitting across the bar from him was Giannis Dalga. Many moons ago, the Dalga and Pierro family ran a mission together, but were attacked by pirates. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>, rather than losing his crew fled the fight, while Giannis Dalga and his crew stood and fight. Giannis was imprisoned and has only recently gained his freedom. It takes a moment for him to recognize <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. When he does, Giannis strikes up a conversation. He asks Giannis why <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> had abandoned him. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>, not much for confrontation, spills his drink all over Giannis and flees the bar, the rest of the party following closely behind. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> and crew hopped aboard the ship and hauled anchor, running away from Giannis.</p>
+<p>It was a pleasant day for sailing. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> talked about the stash of spices below deck. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> was the only crewmember privy to that information.  <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was harsh to <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> (because he was being speaking out of turn) and the crew pushed back against Captain <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. Some time passes. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> spots a ship in the distance. It's the Dalga ship chasing them. The crew uses <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a>'s wings to make the ship sail faster.  Does this actually have an effect? Who knows? Anyway after awhile, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> spots something in the water; it's a man swimming very fast.  <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> tries to shoot arrows at it, another party member fired a canon.
+Meanwhile <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> tied himself to the ship. One grabbed, and <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> landed a hit. The fishman ran on the deck  to try to escape, but <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> struck him down. The fishman was tied to the mast. His name was <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a> the Fishman, a half-Mer who was a mercenary for hire. <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a> worked for the Dalga family. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> interrogated him, but all <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a> would say were nice/general things about the Dalga family. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was considering
+executing him when <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> and <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> aided <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a>'s escape (with agreement that <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a> would not return to the Dalga ship until after the impending meeting of the two ships). <a href="../Characters-to-Know/NPCs/Mondo/">Mondo</a> escapes much to the chagrin of <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>.</p>
+<p>At this point ship morale is at an all time low. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> starts to get suspicious of what's below deck and opens one of the spice barrels, and he instantly falls unconscious from the smell. He is found shortly after by <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. Captain <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was not mad and instead had Denesi care for <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a>. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> realized that he had a lot of explaining to do.</p>
+<h2 id="episode-15">Episode 1.5:<a class="headerlink" href="#episode-15" title="Permanent link">¶</a></h2>
+<p><a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> came clean about the spices on board to the crew. He explained the whole situation with Giannis. While the crew wasn't cool with the spilling of juice, they sympathized with <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> getting away. Soon thereafter, the Dalga ship neared. The crew of the Teknesi hid below deck. The party's ship was boarded. When the Dalga crew
+went below deck, they were quickly dealt with. At the first opportunity, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> ran. He told Captain Giannis where the rest of the party was. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> admitted that he was just a passenger. Giannis and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> had a little meeting. Giannis eventually felt guilty for chasing <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> and holding his past decisions against him. The two ships part ways, the two crews going about their business. </p>
+<h2 id="episode-2">Episode 2:<a class="headerlink" href="#episode-2" title="Permanent link">¶</a></h2>
+<p>The party arrived in a little port town in southern Eskillia. They met a priest named Lakel who practiced the Diacci faith. He was very friendly with the party. Lakel told them about the monsters that had been stealing the town's children. Eager to do a good deed (or in <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s case, bored) the party went after the monsters. In the forest outside of the town, the party fought two trolls that had held the children captive. A storm broke out during this encounter. One of the trolls knocked <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> unconscious, but fled after being struck with one of Oren's arrows. The storm raged on and the party and the children went back to Lakel's temple.  He invited the party in to the temple and let them hang</p>
+<h2 id="episode-3">Episode 3:<a class="headerlink" href="#episode-3" title="Permanent link">¶</a></h2>
+<p>Session Recap: So crew stays in Lakel's temple for awhile. <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> reveals Denesi was missing after the storm. Found quickly in a shop, it's chill. On the docks, party encounters <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> Myotos, heir of the Myotos family. He challenges <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> to a friendly duel, and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> wins it with the help of <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a>. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> leaves a message for <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>: "say hi to your brother for me." </p>
+<p>Soon after leaving port, there's a bright flash of orange light. It's an Aglthiim named Ulacham and something is chasing him. He talks to <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> through mind-stuff and reveals some stuff about the universe also something about snake, Aglthiim and a conspiracy. Ulacham escapes in a barrel, thanking the crew. </p>
+<p>Not too long after that the crew encountered the ship (Lioneer) of <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s brother, Eliazar heir of the Pierro family. He was drunk and threw himself a party on the Teknesi. There were some tensions between the Easterners and Eliazar's crew. Eliazar revealed that there was an assassin after himself and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. <a href="../Characters-to-Know/NPCs/Brutus/">Brutus</a> (longtime crew member of Pierro family ships) reminisced some stories about <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> when he was younger. Eliazar was inebriated and fell into the water. He got surrounded by sharks, and just when it seemed like he was going to escape, he was eaten. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was now the heir to the Pierro family. A moment that he thought would bring him joy, but now only brought sadness. The rest of crew managed to fight off the sharks, <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> even managed to land a killing blow on one (saving his new "girlfriend"). <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> slayed two sharks. At the end of the day, <a href="../Characters-to-Know/NPCs/Brutus/">Brutus</a> the Giant became the new captain of the Lioneer and even was allowed a seat at the Pierro family table. It was a somber parting. The Teknesi set sail once again, now nearing the border of Eskillia and <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a> .</p>
+<h2 id="episode-4">Episode 4:<a class="headerlink" href="#episode-4" title="Permanent link">¶</a></h2>
+<p>Summary of Episode 4: Party lands in Vykertown, which lies on the Eskillian side of the Eskillia-<a href="../Melia-Mar-Biographics/#pevolia">Pevolian</a>  border. Before landing, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> made breakthroughs in his tome studying. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> stayed on the ship along with <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> and Denesi. In the town, the party was quick to find the mayor and the priest of the town. Unlike the previous seaside town the party had visited, which was full of Agltthim worshippers and mixed with <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>n's and Eskillians, this town was purely Eskillian. This was because the Eskillians had driven out the <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>n priests that had infiltrated the town. </p>
+<p>The town was also completely full of Eskil worshippers. There were some lore explanations about Eskil and him cursing The Last Prince, and how that somehow spawned the monster outbreak on the Eastern Continent. Also talks about the mystical stone, and an ancient metropolis forged by said-stone. The priest talked about this for some time. When he was done, he asked <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> for help with creating a fire spell that could light an effigy at the upcoming festival. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> obliged and successfully created incredible fire spells. </p>
+<p>Meanwhile <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> did some thief stuff and stole a big sword for <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>. Meanwhile <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> learned more about the festival, and got <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> a job slaughtering the hogs for the feast. They also help pick flowers in the field with the maidens in the field. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> makes a lasting impression with one. The party gets invited to take part in the festival and maybe one of the party members will even get picked for the role as chosen prince of the festival. Fun times for all! Also, <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> leveled up to lvl 1.</p>
+<h2 id="episode-5">Episode 5:<a class="headerlink" href="#episode-5" title="Permanent link">¶</a></h2>
+<p>Party arrives in the festival. Greeted by the mayor. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> ends up having 2 dates. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> is able to impress the mayor, currying favor to become the prince. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> is overlooked. At the festival, it becomes quickly clear that something is up. The pork is rare, the people really hate the Diacci, and there's an ominous overtone. Still <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> gets picked to be the prince. When the priests "reads the rites" he reveals that the <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>n travelers who had attempted to convert people in the town had been burned alive. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> is trapped and forced to dance with the "flowers" it is revealed that the prince is to be burned, alongside the effigy of Eskil. </p>
+<p>Through quick thinking <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> and <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> used a combo of their abilities to place a sealing rune on <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a>. The fire did not harm him. This outraged the priest and set the crowd off. There was a melee with the crowd, the mayor, and the priest. Between <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> and <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a>, the mayor and the priest were dealt with, while <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> and <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> handled the crowd in order to make a path to escape. The party managed to escape and also sacked the cultist temple. <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> and <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> are fine, but pretty wounded. It might take awhile for them to heal up. Also there's a secret that the captain knows about <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> and Denesi.</p>
+<h2 id="episode-6-and-7">Episode 6 and 7:<a class="headerlink" href="#episode-6-and-7" title="Permanent link">¶</a></h2>
+<p>The crew finds an abandoned Mer outpost, signaling that they have strayed far off course. There they find that the prisoners broke free. During their exploration they meet the local outpost watch, Colombo, who reveals that the waters are no longer safe for humans. Back on the ship while this was going on <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> healed <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> wounds that he had sustained fighting in the cult town. Colombo and his partner ("The Sword") come aboard and explain that their are Sha(human)-hunters in these waters and that the Teknesi needs to navigate back on course. </p>
+<p>Colombo aids the navigation, but not before the ship is attacked by the Sha-Hunters. They placed explosive runes on the Ship. Fortunately <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> was able to mitigate some of the damages. The Party with some help from "The Sword" were able to fend them off. They even captured a foe (who had similar powers to <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>), but the interrogation proved fruitless. After some bickering with Colombo, he left amicably once the party was in safe waters. The Party was now facing <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a> , off to <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a>'s homeland and the bastion of the Diacci Church (Agltthim worshippers). First stop: the lovely port town of Taif Jedda(h)</p>
+<h2 id="episode-8">Episode 8:<a class="headerlink" href="#episode-8" title="Permanent link">¶</a></h2>
+<p>This was a big episode. So the crew arrives in Taif Jedda(h), a port city in <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>  that also has a large population of <a href="../Melia-Mar-Biographics/#sidio-barca">Sidio Barca</a>n merchants. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> stays on the ship, because he feels apprehensive about returning to <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a> . The rest go to an inn in town, but not before getting some nice rugs from a rug vendor. At the inn, <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> learns from the innkeeper that the prominent priest of the city has rapidly ascended among the ranks of the church. </p>
+<p>This official is named <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>, and he has become the irl equivalent of governor in the region. With his rule, he has put his foot down on crime, cleaned up the streets, and imposed a two-drink limit in bars. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> is friend's of some sort with the innkeepers' daughter. Daughter and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> have a warm conversation before he and the crew go upstairs to bed. While <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> sleeps a strange man breaks into his room. He holds <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> at knife point, asking him why he shouldn't kill him and collect the bounty. This bounty was the same one Eliazar had mentioned before his tragic passing. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> tries to bargain with this strange mercenary, but to no avail. Fortunately, <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> with help from an <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> showing off his new spell were able to break away the bounty hunter from <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. The bounty hunter, named <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>, agreed to stand down, if he could be compensated. The group removed his weapons, and slept. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> and <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> even had a charming moment with moss.</p>
+<p>As the party leaves to go meet with the merchants, they witness a robbery in broad day light by 5 thieves. Eager to prove himself, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> takes the dagger off of <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s side and rushes in to the victim's aid. The party all follow suit while <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> protects Denesi. Meanwhile another <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>n appears to be rushing into see what is going on as well. He's fairly tall and well built. When <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> tells this man to not interfere, this <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a>n man ignores it. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> fires an arrow, but the man shrugs it off. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> manages to knock out a couple of the thieves with a tidal wave while <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> and <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> fight off the rest. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> realizes who the <a href="../Melia-Mar-Biographics/#mildabia">Mildabian</a> Samaritan; it's <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>. But <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, sees the man's tattoos and continues his onslaught. <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> recognizes that <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> is blocking him from helping the assaulted man bleeding in the street and decides it's time to fight. <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> casts off his priest tunic, revealing tattoos that resemble explosive runes on his arms. The next action happens in an instance. <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> winds up for a punch, then his elbow explodes-propelling his arm forward, then right before <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>'s fist collides with <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s chest an explosion happens at <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>'s fist as well. This punch sends <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> flying through a wall, one hit KO'ing him. <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> and <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> handle the thieves that they had been fighting, while <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> heads off the remaining ones. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> wakes up and calls for <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>'s aid. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> uses his bladed whip, catching <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> off-guard and knocking him off his feet.</p>
+<p>Oren, wounded rushes to <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> to finish him off (<a href="../Characters-to-Know/NPCs/Pops/">Pops</a> finishes off the other thief btw). The crew is puzzled by <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> suddenly flipping. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a>, seeing that <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> is going to kill <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>, casts a sealing rune on him so a rational discussion can be had. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> agrees with <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> that killing <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> would literally cause an entire country to be at war with them. Furthermore, the party does not know the reason for <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s aggression. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> stays enraged until a shocked <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> asks <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> why he's doing this. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> snaps out of his enraged state, and is escorted by <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> back to the ship. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> orders the party to flee the city in hopes that <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> won't be able to figure out that it was them who attacked <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> and get far, far away. Why did the peaceful <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> snap and try to kill <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>? Will <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> reveal that <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> is empowered by the Abyss of the Ageless? Will <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> be able to figure out who put out the hit on his head? Will <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> like his new carpet mat? All and more will be revealed, as the party continues their journey to <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a> , next time on....</p>
+<h2 id="episode-9">Episode 9:<a class="headerlink" href="#episode-9" title="Permanent link">¶</a></h2>
+<p>Oren and <a href="../Characters-to-Know/NPCs/Skee/">Skee</a> rushed to the boat and told <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> to pull up the anchor. Their time in Taif Jeddah would be short lived. The rest of the crew followed close behind and they immediately set sail, fleeing the chaos that had been caused. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> introduced himself to <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> while <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> relayed to him what had happened in town. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> immediately was put to work helping Denesi in the kitchen. Together they made a wonderful meal. It was a tense dinner, as <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> grew suspicious of the new crew member. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> feared that <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> was empowered by the "Abyss of the Ageless". <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> tried to goad <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> into admitting this, but <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> denied. The dinner became tense. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> opened up about his home life, revealing that people whose tattoos resembled <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> had been the ones who kidnapped his brothers and that was why he snapped. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> followed suit about his backstory as well, revealing that he lived his childhood as a street orphan in a hostile land and witnessed the murder of his sister on the streets. The next day <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> devised a plan. In order to make <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> use his "Abyss Powers", <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> laid down a challenge to spar with <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> accepted of course, and a fight began. What started as a tactical battle devolved into a wrestling match, but <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> stood victorious over <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>. Moments after this fight ended, a call for help was heard. Fishermen were in a small boat and were battling as fast as they could. And chasing them were a swarm of SEA WASPS that were the size of your arm. The crew came to their aid and dueled the wasps. Fortunately <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> had a book on Sea Wasps that he had read to the crew. As usual, <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> had the most kills and also fell unconscious. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> came up with a strategy with fish yogurt that kind of worked. He also did some cool swimming moves fighting the wasps in the water, a very difficult thing to do. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> held his own, and even saved <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a>.</p>
+<p>After defeating the Wasps, the boat of fishermen came back and thanked the crew. The fishermen offered some of their fish and offered the crew a place to stay in their nearby <a href="../Melia-Mar-Biographics/#mildabia">Mildabia</a> n village. Their only wish was that the crew did not tell the town how far out the fishermen had gone out. Captain <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> pondered why this was. The fishermen explained that they had secretly gone to... THE GRAND REALE! Essentially a gambling town that float on top of the water and was pulled by a boat. This settlement was let by one <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> Reale, a former for-hire captain that rebelled against the Seven Families of <a href="../Melia-Mar-Biographics/#sidio-barca">Sidio Barca</a> . The Grand Reale is a place where many officials worldwide make secret deals. It also hosts a premiere fighting tournament. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> has ties to there as well, being a midtier competitor in said-tournaments and doing some contract work their as well. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s interest in meeting <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> Reale has been peaked. Perhaps he can learn valuable secrets, find out who put the bounty out on him and his brother's heads, or maybe even make a powerful alliance. Below deck, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> makes a powerful breakthrough in deciphering his texts. All this and more shall be revealed.</p>
+<h2 id="episode-10">Episode 10:<a class="headerlink" href="#episode-10" title="Permanent link">¶</a></h2>
+<p>The crew arrived at the port of Naghir. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> finally bought a sword and the crew had a decent time exploring the small fishing town. One object of note existed in the town, a statue made of fine metals. It was dedicated to <a href="../Characters-to-Know/NPCs/Lucien/">Lucien</a>, the Aglttiim associated with fire and the sun. The leader of the town explained that it was a gift from <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a>, who as Thanilea, acts as the region's "governor". This sent <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> into a cold shock, reliving his past and present trauma. The crew left the port and set sail to The Grand Reale. It was a pleasant voyage. As they approached the butte, they saw many ships tethered there including: Heelos, Myotos, and Koleci. When they arrived, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> went on ahead to explain to the guards who he was bringing aboard. Meanwhile <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> instructed <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> to keep an eye on <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>, and that if he tried anything funny to put a sealing rune on him. The crew successfully made it past security and entered The Grand Reale. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> pick-pocket a guy with such ease almost instantly. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> and <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> attempted to make small-talk with some low-level Heelos captains, but got little information. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, not really in the mood for revelry, paced the room. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> bought <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> a bottle of magically-aged rum, and went to talk to his contact. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> stayed close. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> chose to reveal to <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> that the goods below deck were highly sought after. </p>
+<p>The Sweet Leaves were strong and could fetch well over 1000 silver on the black-market. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> talked to his connection, head-chef Hector, who told <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> that he would run some sort of deal by <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a>. Perhaps the Koleci or Myotos might want it. Simultaneously, into the room walks <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> Altin-Myotos, the young man <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> had bested in a duel with <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> at his side. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> came over to the table where <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was making small talk. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> bragged about how the Myotos were strong arming the Koleci family, for favors, before the summit starts in a couple month. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> then let slip that he knew of the bounty on <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s head, and even that he knew of the failed assassination attempt on Eliazar's life. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> gets nervous and after little more chatting leaves the table. <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> explains that he has to go because <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> wants to make the Myotos and the Koleci some type of offer.</p>
+<p>After robbing that one guy blind, <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> went to the bar to drink, to his right sat a <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a> n man downing <a href="../Melia-Mar-Biographics/#pevolia">Pevolian</a> Ale. Curious, <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> ordered some. It tasted like lighter fluid and he spit it out. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> attempt to make conversation with ale-guzzler, an aged <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a>n wearing a brown cloak, but the man didn't seem much in conversation. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> left the bar, and reunited with <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. Maybe noticing this interaction, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> approached the bar. He sat next to the weary, drunk <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a>n and asked if he was okay. The <a href="../Melia-Mar-Biographics/#pevolia">Pevolian</a>  gave a vague response, but appreciated <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> the Archer's gesture. The <a href="../Melia-Mar-Biographics/#pevolia">Pevolian</a> man, named Sergey, placed his hand on <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> shoulder as a gesture of good nature. When he lifted up his arm, his cloak fell back on his arm, revealing tattoos. These tattoos similar to what <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> had, the magical tattoos that belonged to the group that stole <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s brothers. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> froze for a moment and immediately walked a way from the bar. He wanted to fight him, but he remembered <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> words. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> wanted answers more. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> confided with <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> and <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a>. They got Sergey even more drunk, and took him back to his room. There <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> knocked him out and <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> looted the room (earning them an employee card as well). The successfully snuck Sergey all the way to the belly of the Teknesi. Sergey was tied up, as he came to. Sergey was his drunk self but a moment. As soon as <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> questioned him about his tattoos, he got silent. The drunk forgetting his troubles shifted. Shifted to a man who remembered everything he had done. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> question him using torture. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> got the name of the group that took his family: "Way of <a href="../Characters-to-Know/NPCs/Jinn/">Jinn</a>".</p>
+<p><a href="../Characters-to-Know/NPCs/Jinn/">Jinn</a> being the leader, but it was not really clear if "<a href="../Characters-to-Know/NPCs/Jinn/">Jinn</a>" was still alive or if it had just become a title. When Sergey revealed that those who were kidnapped became child soldiers, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> cut off his ear. Sergey was pretty forthcoming with information, if a little panicked for obvious reasons. He even offered <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> a contact in <a href="../Melia-Mar-Biographics/#pevolia">Pevolia</a> . Sergey wanted his freedom now however, and <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> was not going to let that happen, fearing Sergey could provoke <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> into attacking the Teknesi. No, there Sergey would remain until the ship set sail, or for who knows how long. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> was sent to tell <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> of the news. At this point however, there were developments inside the ship as <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> was about to make his entrance into the main dining hall and potentially change the power-balance of Barcazoan politics forever.</p>
+<h2 id="episode-11">Episode 11:<a class="headerlink" href="#episode-11" title="Permanent link">¶</a></h2>
+<p><a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> exited his meeting room and entered the main hall of The Grand Reale. Puzzled, he walked over to <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s table. He climbed over the table just to get a better look at <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s face. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> remarked that <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was thinner in real life than in his bounty photo. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> gave a hearty laugh. He invited <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> to a meeting that would be happening later. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> was completely unaware that <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> had discovered that the Sweet Leaf was on the Teknesi. Speaking of back on the Teknesi, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> sat in shock of what had just happened. His guilt over came him and he vomited in the corner of the room. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> realized that what he had did was wrong. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> wanted to turn himself in, but <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> discouraged him, knowing that his friend would be at the mercy of <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a>. Determined, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> decided to turn himself in anyway. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> freed Sergey and rushed to find medical attention. After Sergey was handed over to the ship's guards, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> met his fate in front of <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a>. From a distance, the crew watched <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a>'s judgement of the archer. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> was angry but with his usual <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> flair. He offered <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> a choice: either lose his ear or fight The Grand Reale's champion in the arena. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> agreed to the fight, once again trusting his instinct over the crew.</p>
+<p>While the crew waited for <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s match to start, the gang hung out in the main hall of The Grand Reale. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> won some money at cards. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> got some information from his former coworker Stefan. Once <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> heard that the leaf was onboard, he had conspired with <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> and <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> in order to personally deal the leaf. This obviously frustrated <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>, but Stefan reassured him that he would get his cut. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> meanwhile tried to soften up <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s opponent, but to no avail. Some time passed and it was time for <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>'s trial by combat to begin. <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> asked his angel-dad to help <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, and angel-dad agreed. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> lent his poison to <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>. Furthermore, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> used his special ability and cursed Jon, the opponent, before the match. Giocar gave his hand signal, and the match began! <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> launched an arrow at Jon. Jon prepared to knock the arrow out of the air, as he had done many times before in the arena. This time however the arrow struck him dead in the chest (his timing was off because of the curse). Jon dove behind cover and healed himself. Jon peaked out to try to spot his opponent. A poison tipped arrow hit the side of his cheek. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> was spot on with his marksmanship. Jon charged at <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, deflecting some arrows but others still struck him. By the time he was finally close to <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, Jon was very wounded. As Jon was finally ready to lay a hit on <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> with his bowstaff, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> yelled out, "Behind you!" This briefly distracted Jon, allowing <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> to punch Jon out. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> stood over him as the surprise victor. When Jon woke up, the effects of the curse had worn off. While <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> offered respect to Jon, Jon had little interest. Jon walked away bewildered and angry. Jon hit one of the stone barriers with his bowstaff and it went flying. "Next time, just wait until I get one hit in."</p>
+<p><a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> enjoyed the spectacle and proceeded to head back to the meeting room with <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> Myotos, Geraldo Koleci, <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> Pierro, and <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a>. Everyone had different expectations going into the meeting. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> wanted one thing from it all however. Years ago, <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> was a for-hire captain that worked with the 7 great families of <a href="../Melia-Mar-Biographics/#sidio-barca">Sidio Barca</a> . After some dispute, <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> broke off ties even stealing some of the trade families ships. In the present, <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> wanted a seat at the table. He wants to found the 8th trade family, one bound not by blood but brotherhood. Now <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> and <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> both objected to this. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> had leverage. He knew about <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s spice below deck and <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> needed <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a>'s help in order to push the Koleci out of southern <a href="../Melia-Mar-Biographics/#mildabia">Mildabian</a> seas. Geraldo was just going to get screwed no matter what. The talks went back and forth and seemed at a standstill. One thing remained a constant: <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> wanted to etch himself into history. Meanwhile the crew returned back to the ship without <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>. The ship still docked on the back of The Grand Reale. While some rested others noticed the guards of The Grand Reale getting closer and closer.</p>
+<h2 id="episode-12">Episode 12:<a class="headerlink" href="#episode-12" title="Permanent link">¶</a></h2>
+<p><a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> and <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> finally reached an agreement. <a href="../Characters-to-Know/NPCs/Giocar/">Giocar</a> paid <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> 1,000 Silver up front. In exchange, he would deliver the remaining 2 barrels and collect the fee from the Pevolian government (which will be much less than he thinks it is). <a href="../Characters-to-Know/NPCs/Nico/">Nico</a> got control of the Southern <a href="../Melia-Mar-Biographics/#mildabia">Mildabian</a>  seas, and the Koleci got nothing. Patriarch Geraldo Koleci begged <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> to take his side and help him. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>, not a big fan of the slaver, said "No." The crew set sail from THE GRAND REALE. However, they realized that they were being followed. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> sent <a href="../Characters-to-Know/Player%20Characters/Chris/">Chris</a> out to check. He returned, wounded by a large arrow, but holding the flag of the Koleci. They were chasing the Teknesi, and they had many a reason. Geraldo was obviously angry at <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> for not taking his side in the meeting. Also, the Teknesi had plenty of treasure and spices aboard. Furthermore, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> was onboard and he was rumored to have collected contracts against the Koleci family. The Teknesi, through <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a>'s navigation, out-maneuvered the Koleci ship and made it to <a href="../Melia-Mar-Biographics/#mildabia">Mildabian</a>  shores. The Koleci ship feared international incident and waited on the horizon for the Teknesi to leave port.</p>
+<p><a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> made a great leap in discovery in his book. Long ago, there were four peoples. The Kwy (glowing eyes), the humans (sha), the mer, and the Pan. The Pan and the Kwy had a big war. Shortly after that war, horrible monsters came and destroyed much of the world. The Pan stood up in defense, but suffered many casualties. These warrior Pan took a different appearance than the old Pans (having glowing eyes and even longer ornate horns). Eventually, these warrior Pan defeated the monsters and the books end. No one really understands what <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> book means. It sounds like a fairy-tale. Anyway, once the crew arrives at this safe port. They realize they are at a magic school. There they learn that <a href="../Characters-to-Know/NPCs/Jericho/">Jericho</a> was seriously injured in the party's attack. The party was welcomed inside. </p>
+<p>The crew was at a magical school, dedicated to raising first responders for the Diacci church. They witnessed a grand demonstration from Professor Patel, who even invited them to view the campus library. The crew soon set out, but the Koleci ship remained on the horizon. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> elected to try diplomacy. He sent <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> with a letter to start the negotiations. Unfortunately, the Koleci weren't interested in negotiation. A cannonball nearly missed <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> and he soon was hit by an arrow, shot by Zarar the Manhunter (slaver and high-ranking Koleci family member). A portal fell into the ocean. And <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> fell into it. There <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> met a mysterious girl with horns and glowing eyes. Her name was Inopia. She offered <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> power to beat those who oppressed orphans in exchange for losing some of his humanity. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> accepted and emerged up from the portal of the sea with glowing, sunken purple eyes.</p>
+<h2 id="episode-13">Episode 13:<a class="headerlink" href="#episode-13" title="Permanent link">¶</a></h2>
+<p><a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> emerged from the sea using his new found powers to counter attack Zarar. After taking more cannon fire, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> retreats. Meanwhile the Koleci ship fired at the docked Teknesi. One nearly collided, but <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> blocked it with a wave. A second shot sailed over the Teknesi, hitting the college and collapsing the roof. Professor Patel came rushing out. <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> explained that the ship was under attack from the Koleci Slavers. Patel offered to help. They decided that the best bet was for a small vessel to board the ship and takeout the Koleci crew. Professor Patel, two of his best students, <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a>, <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a>, and <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> + <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> who was still water walking.</p>
+<p>They boarded the ship successfully. <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> rushed to the Koleci captain. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>, Patel, and the students took on the crew below deck. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> and <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> disarmed the cannons. Zarar was knocked off the ship and into the water by an arrow. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> and Olivierro fought him below deck. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> became exhausted from his borrowed use of magic energy. <a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> rushed in and stabbed Zarar while he was on fire, ending the fight. Meanwhile <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> saw <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> was cornered on the ship. He had <a href="../Characters-to-Know/Player%20Characters/Lorenzo/">Lorenzo</a> pull the ship in and <a href="../Characters-to-Know/Player%20Characters/Tomakin/">Tomakin</a> rushed in to save <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>. He was successful. As the fight seemed to turn in our heroes favor, Geraldo Koleci was backed in to a corner. Him and <a href="../Characters-to-Know/Player%20Characters/Oren/">Oren</a> arranged a ceasefire. However, when it became clear that the slaver Koleci did not have much value for human life (2 died in the roof collapse btw), Professor Patel jumped in and placed him in a greater sealing rune which lasts a week. Professor Patel told the Teknesi crew to take whatever they wanted from the ship. The crew soon set sail, with Geraldo imprisoned by Professor Patel and the university.</p>
+<p><a href="../Characters-to-Know/Player%20Characters/Oliviero/">Oliviero</a> spent some time training at the school following the victory. A week or so passes and the crew eventually arrived at the tip of the Eastern Continent. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> knew this was where he needed to pick up his reward. It took much persuasion, but they did land there. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> picked up his bounty and the crew bought some magical items from a vendor outside the outpost. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> said his heartfelt goodbyes to the majority of the crew as they entered the building, paying for their first round. Outside, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> picked up a bounty for an Eskilian Petty King, the perfect target. The Orphan in <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>'s head agreed. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> went to pass by the ship one last time; <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> stood on the deck. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> knew the deal that <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> had took; it was the same one that he had rejected all those years ago. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> called out to <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>, at first trying to be cordial. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>: "I wish you well, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>." <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>: "Likewise!" <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> is overcome with feelings of guilt. He had tried to lead <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> away from the pact. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>: "It's not too late to turn back you know. From the Tyrants. You have traded away yourself." <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>: "That may be the case, but it was my deal to make." <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> let out a sigh. Not only had Denesi come to like <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>, but <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> had too. <a href="../Characters-to-Know/NPCs/Pops/">Pops</a>: "Well, <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a>. I hope when the war comes, when the Tyrants return, we won't meet on the battlefield." <a href="../Characters-to-Know/NPCs/Pops/">Pops</a> went back below deck to be with Denesi. <a href="../Characters-to-Know/Player%20Characters/Mako/">Mako</a> walked away in silence.</p>
+<p>Inside the restaurant, the rest of the crew was living it up. Then, at the bar they saw a familiar face. It was Ulacham! The Aglthiim they had helped in a barrel what seemed like forever ago. Much merriment was about to be had. See <a href="../Melia-Recaps-2/">Melia-Recaps-2</a> for the rest of the story.</p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<nav aria-label="Footer" class="md-footer__inner md-grid">
+<a aria-label="Previous: Melia Prime History" class="md-footer__link md-footer__link--prev" href="../Melia-Prime-History/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Previous
+              </span>
+              Melia Prime History
+            </div>
+</div>
+</a>
+<a aria-label="Next: Melia Recaps 2" class="md-footer__link md-footer__link--next" href="../Melia-Recaps-2/" rel="next">
+<div class="md-footer__title">
+<div class="md-ellipsis">
+<span class="md-footer__direction">
+                Next
+              </span>
+              Melia Recaps 2
+            </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+<script src="../assets/javascripts/bundle.d6c3db9e.min.js"></script>
+<script src="../javascripts/mathjax.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</body>
+</html>
