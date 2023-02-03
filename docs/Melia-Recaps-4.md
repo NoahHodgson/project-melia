@@ -193,3 +193,7 @@ However the party was going to get out of this mess, it was not going to be pret
 AUTHOR'S NOTES - Two Comments:
 1) We know it is [[Giocar]]'s mage, Ronaldo, who has found a way to peer into the In=between. 
 2) The lady in green introduced this week is an [[Melia-Cosmic-Biographics#The Ador:|Ador]], specifically the sister of [[Eskil]]. Unlike her brother, she did not stay in Melia Mar to be worshipped and instead continued the cosmic journey.
+
+
+## Arc 4 Ending
+Oliviero's party ended up escaping from Lerndel with the guards in hot pursuit. The lady in green was also traveling with their party. [[Eblis]] recounted his backstory one last time on the way (about him being Artar and his reason for having a vendetta against The Creators). They arrived in Bristok. This takes us up to where [[Lorenzo]]'s crew left off: [[Oliviero]] cast a meteor and leveling a sizeable part of Bristok. All that and more in [[Melia-Recaps-5]]
