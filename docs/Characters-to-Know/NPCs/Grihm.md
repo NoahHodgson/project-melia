@@ -1,0 +1,1 @@
+Dragon with black and gold scales. One of the last remaining dragons in Melia. Fiery breath. He calls himself the Lord of Dragons. He seeks the restoration of his people. 
