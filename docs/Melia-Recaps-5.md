@@ -24,8 +24,19 @@ The dropping of the bag, made the accelerant combust, causing a wide ranging exp
 Giocar, Leon, and Grihm all stared at each other, and then through the flames where the sword-component likely lay. This would not be a matter of brawn, but how nimble our combatants were. 
 
 ## Arc 5 Episode 3:
-Coming soon.
+[[Giocar]], [[Leon]], [[Raxus]] and [[Grihm]] all rushed through the flames searching for the sword component. They brawled in the smoke and the flames. Seeing that the battle was going to leave everyone in too weak a state to maintain possession of the component, Leon and Grihm made an alliance. Together they took on Raxus, but Giocar was able to evade them and pick up the components. 
+When he went to pick it up, he burned his hands instead. The heat from the explosion had heated the component up to the consistency of melted cheese. His hands scorched, Giocar fled to the trees empty handed.
 
-## Arc 5 Conclusion:
+Meanwhile, [[Lorenzo]] being badly injured had Chris fly him away from the battlefield and back towards the ship. He clutched the jar of Oliviero's essence under his arms. [[Ghost]] pursued the captain and the pterodactyl, seeking to finally collect her bounty. Finally Gaelan chased after Lorenzo. He sought out Oliviero's remains (not realizing that he would reform). 
+
+It this point [[Oliviero]] consciousness is whisked away one last time to the In-Between. [[Eblis]] voiced his disappointment and told Oliviero that their collaboration was over. Oliviero had planned on betraying Eblis once he got the sword anyway, but this still stung a little. Oliviero was expelled from the In-between, leaving for the last time. Eblis sat and stewed for a bit. He decided with the sword so close, he'd go and risk it all to get the sword himself. He teleported back to Melia Mar, to Bristok, into the fray of battle. 
+
+Grihm and Leon bested Raxus killing him off. At this point Eblis emerged and locked into combat almost immediately with Leon. Leon dipped his sword into the component and like magic it stuck.
+With the help of [[Tytactis]], Leon was able to hold off Eblis's onslaught of attacks until [[Steven]] arrived. Steven hurled a bolt of light at Eblis causing him to flee back to the In-between, barely escaping with his life.
+
+Steven reunited the party together, resurrected Oliviero, and rewarded Leon with an official post as wielder of the sword. Ghost was outed as an assassin by Steven and fled the scene. Grihm was rewarded for helping fight Eblis, and given magical food to help the dragons. 
+
+Gaelan and Oliviero ride the cow off into the sunsets as they planned to start a magic college. Leon becomes a Creator-ally, to Tytactus's meh-ness. Lorenzo rides off on his ship, knowing his Uncle is his true father and also trying to kill him. Eblis's forces have taken much of the north pole from the frost giants, but their forces are weakened.
 
 ## Arc 5 Epilogue:
+After 5 years, the war between Pevolia and Mildabia entered a ceasefire. Dragons hatched new eggs and baby drakes flew over the Berringia once again. The trade families continue to maintain power and [[Giocar]] even stronger, with [[Jhun]] as his right hand. Eskillia continued to suffer, as monster attacks from underground and from the north became more frequent. The Mer for the first time, have sent diplomatic envoys to the nations of the world revealing how advanced their society truly is. The Roclesian Empire fell further into disarray, allowing the two breakaway regions to become independent vassals. And in the north, the far north, the remaining Frost Giants fight Eblis's horde as they struggle to hold the north. Eblis remains in the In-between, fearing the day when Steven and The Creators finally come for him.
